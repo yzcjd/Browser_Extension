@@ -1,0 +1,28 @@
+{
+  "blacklist": "*://*/so.php\n*://*/so.php?s=*\n*://*/cha.php?s=*\n*://*/list.php?s=*\n*://*/?s=*\n*://*/so/*\n*://*.3997025.com/*\n*://*.xinluobo.com/*\n*://*.anchipl.com/*\n*://*.05sun.com/*\n*://*.hnckhnt.com/*\n*://*.kubafrey.pl/*\n*://*.patrzaczdolufotografia.pl/*\n*://*.collinsdictionary.com/*\n*://*.okinfo.org/*\n*://*.fi11sm37.com/*\n*://*.aikepu.net/*\n*://*.6532099.com/*\n*://*.fuyeor.com/*\n*://*.odszkodowania-kontakt.pl/*\n*://*.nfrfest.com/*\n@*://*.ksou.cc/*\n*://*.joanne-kelly.com/*\n*://*.dzrchugui.com/*\n*://*.hastynews.com/*\n*://*.maggie-siff.com/*\n*://*.lehuotuan.com/*\n*://*.7117113.com/*\n@*://*.cwv587.com/*\n*://*.substancewrittenvillage.top/*\n*://*.openrice.com.cn/*\n*://*.buzhidaonicheng.xyz/*\n*://*.romleyuan.com/*\n*://*.liliang.info/*\n*://*.ucloud.cn/*\n*://baike.baidu.com/*\n*://*.hongmengshijie.net/*\n*://*.fdstock.com/*\n*://*.xitongzhijia.net/*\n*://*.telegramrb.com/*\n*://*.freedidi.com/*\n*://*.liulanqi.com/*\n*://*.campaignchina.com/*\n*://*.jikipedia.com/*\n*://*.backchina.com/*\n*://*.91rb.net/*\n*://*.heimaotv.vip/*\n*://*.callmysoft.com/*\n*://*.worktile.com/*\n*://*.xitongzhijia.com/*\n*://*.53xt.com/*\n*://*.wf168.com/*\n*://*.qidian.com/*\n*://*.qq.com/*\n*://*.qu38.cc/*\n*://*.74110.net/*\n*://*.zztongyun.com/*\n*://*.pikafish.org/*\n*://*.cjpkw.com/*\n*://*.xiangqiwu.com/*\n@*://*.rmooo.com/*\n*://*.147seo.com/*\n*://*.furuke.com/*",
+  "blockColor": "default",
+  "blockWholeSite": true,
+  "dialogTheme": "light",
+  "enablePathDepth": false,
+  "hideBlockLinks": false,
+  "hideControl": false,
+  "highlightColors": [
+    "#ddeeff"
+  ],
+  "linkColor": "default",
+  "skipBlockDialog": true,
+  "subscriptions": [
+    {
+      "name": "eallion",
+      "url": "https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt",
+      "enabled": true
+    }
+  ],
+  "syncAppearance": true,
+  "syncBlocklist": true,
+  "syncGeneral": true,
+  "syncInterval": 120,
+  "syncSubscriptions": true,
+  "updateInterval": 120,
+  "version": "8.9.2"
+}
