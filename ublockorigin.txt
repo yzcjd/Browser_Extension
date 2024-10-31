@@ -68,10 +68,6 @@
 ||czbooks.net/images/default_no_thumbnail.jpg$image
 ||static.idmzj.com/module/images/float_code.jpg$image
 ||media.beehiiv.com/cdn-cgi/image/format=auto,width=800,height=421,fit=scale-down,onerror=redirect/uploads/publication/thumbnail/d0318cb6-0493-4e34-b055-76456e6c0f76/landscape_template__3_.png$image
-||www.nivod8.tv/image/ad2.png?v=4$image
-||static.nivod8.tv/imgs/2023/09/15/76014695-1e78-476e-91f3-c29aaf31934f.jpg_300x400.jpg$image
-||static.nivod8.tv/imgs/2024/03/07/840f3664-99f2-4ed2-9b6b-26b031cda503.gif$image
-||www.nivod8.tv/loginreg.html
 ||inews.gtimg.com/newsapp_bt/0/15026186450/1000$image
 ||cdn.lol.ps/static/prod/f4cc2789/_app/immutable/assets/headerbg.2b1e421b.webp$image
 ||ogs.google.com/u/0/widget/callout/$subdocument
@@ -211,12 +207,7 @@ blog.saltysmoke.org###post_comment > .card-body
 blog.saltysmoke.org##.border-0.shadow-sm.card.site-footer
 v1.nicotv.bet##.ff-forum-post.form-forum
 v1.nicotv.bet##.ff-footer.row
-www.nivod8.tv##.layui-btn-sm.layui-btn
-www.nivod8.tv##.res-popup-header
-www.nivod8.tv##.dplayer-airplay-icon.dplayer-icon
-www.nivod8.tv###pip > .dplayer-setting-icon.dplayer-icon
 github.com##.layui-btn-sm.layui-btn
-www.nivod8.tv##.player-mnb
 dash.cloudflare.com##.c_ex.c_ga.c_fz.c_fm.c_bm.c_bq.c_fy.c_fx.c_c
 www.skyqian.com##.px-3.px-md-4.py-4.my-4.card
 www.skyqian.com##.mt-4.text-center.p-4.bg-white
@@ -241,7 +232,6 @@ imzm.im##.post-navigation.navigation
 imzm.im##.comment-form
 imzm.im##.comment-respond
 slll.in##.layui-btn-sm.layui-btn
-www.nivod8.tv###nav_vipFloat > .qy-header-dlCon > .header-dlpop
 gemini.google.com##.ng-star-inserted.ng-trigger-capabilitiesDisclaimerRevelAnimation.ng-trigger.ng-tns-c791528049-2.capabilities-disclaimer
 www.newyorker.com##.paywall-modal
 www.newyorker.com##.wide-adrail
@@ -259,15 +249,8 @@ lisahost.com##div.text-center.alert-warning.alert:nth-of-type(3)
 open.spotify.com##.ot-sdk-container > .ot-sdk-row
 open.spotify.com##.main-view-container__mh-footer-container
 open.spotify.com##.YNnobzGm5w3XKBniKdW9
-www.nivod8.tv##.flash-box-mini
 dash.cloudflare.com##.c_fn.c_gp.c_go.c_gb.c_bm.c_bq.c_gn.c_gm.c_c
 www.youtube.com##.ytd-comment-view-model.style-scope.translate-button
-www.nivod9.tv##.ph-skin-wrap > .footer
-www.nivod9.tv###my_saberfeedback_button > span
-www.nivod9.tv##.m-goTop
-www.nivod9.tv##.qy-episode-side.qy-player-side > [href]
-www.nivod9.tv##.mnb-barrage-wrap
-www.nivod9.tv##.player-mnb
 scamalytics.com###footer > div
 dash.cloudflare.com##.c_ez.c_gd.c_gc.c_fo.c_bm.c_bq.c_gb.c_ga.c_c
 shyyp.net##.justify-center.flex-wrap.flex
@@ -432,8 +415,6 @@ www.google.com##.sfbg
 www.google.com##.qogDvd
 www.google.com##.J1AhHd.PHj8of
 www.google.com##.KLEmSd.qS9jbf.ym1pid
-赔钱机场.site##.alert-success.alert
-赔钱机场.site##h4
 www.ifanr.com##div.o-single-content__body__content
 www.ifanr.com##.footer-content.u-clearfix
 www.google.com###pagetual_pageBar2
@@ -1413,6 +1394,8 @@ zhuanlan.zhihu.com##.css-89d6kn.Button--plain.CornerButton.Button
 cloud.digitalocean.com##.iAzGOq.sc-ijJwAX
 v.ps##.footer.section
 
+
+! 暂时手动添加
 ! 2024年10月31日 https://m.qidian.com
 m.qidian.com###teleported
 m.qidian.com##footer
