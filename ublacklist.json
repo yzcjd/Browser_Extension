@@ -1,0 +1,83 @@
+{
+  "blacklist": "*://*/so.php\n*://*/so.php?s=*\n*://*/cha.php?s=*\n*://*/list.php?s=*\n*://*/?s=*\n*://*/so/*\n*://*.3997025.com/*\n*://*.xinluobo.com/*\n*://*.anchipl.com/*\n*://*.05sun.com/*\n*://*.hnckhnt.com/*\n*://*.kubafrey.pl/*\n*://*.patrzaczdolufotografia.pl/*\n*://*.collinsdictionary.com/*\n*://*.okinfo.org/*\n*://*.fi11sm37.com/*\n*://*.aikepu.net/*\n*://*.6532099.com/*\n*://*.fuyeor.com/*\n*://*.odszkodowania-kontakt.pl/*\n*://*.nfrfest.com/*\n@*://*.ksou.cc/*\n*://*.joanne-kelly.com/*\n*://*.dzrchugui.com/*\n*://*.hastynews.com/*\n*://*.maggie-siff.com/*\n*://*.lehuotuan.com/*\n*://*.7117113.com/*\n@*://*.cwv587.com/*\n*://*.substancewrittenvillage.top/*\n*://*.openrice.com.cn/*\n*://*.buzhidaonicheng.xyz/*\n*://*.romleyuan.com/*\n*://*.liliang.info/*\n*://*.ucloud.cn/*\n*://baike.baidu.com/*\n*://*.hongmengshijie.net/*\n*://*.fdstock.com/*\n*://*.xitongzhijia.net/*\n*://*.telegramrb.com/*\n*://*.freedidi.com/*\n*://*.liulanqi.com/*\n*://*.campaignchina.com/*\n*://*.jikipedia.com/*\n*://*.backchina.com/*\n*://*.91rb.net/*\n*://*.heimaotv.vip/*\n*://*.callmysoft.com/*\n*://*.worktile.com/*\n*://*.xitongzhijia.com/*\n*://*.53xt.com/*\n*://*.wf168.com/*\n*://*.qidian.com/*\n*://*.qq.com/*\n*://*.qu38.cc/*\n*://*.74110.net/*\n*://*.zztongyun.com/*\n*://*.pikafish.org/*\n*://*.cjpkw.com/*\n*://*.xiangqiwu.com/*\n*://*.147seo.com/*\n*://*.furuke.com/*\n*://*.bbc.co.uk/*\n*://*.primevideo.com/*\n*://*.peacocktv.com/*\n*://*.pubjav.com/*\n*://*.javdock.com/*\n*://*.9sex.tv/*\n*://*.javcube.com/*\n*://*.javbit.net/*\n*://*.tokyotosho.info/*\n*://*.jav.land/*\n*://*.javhd.com/*\n*://*.javsek.net/*\n*://*.maxjav.com/*\n*://*.spermmania.com/*\n*://*.vend-o.com/*\n*://*.av01.media/*",
+  "blockColor": "default",
+  "blockWholeSite": true,
+  "dialogTheme": "light",
+  "enablePathDepth": false,
+  "hideBlockLinks": false,
+  "hideControl": false,
+  "highlightColors": [
+    "#ddeeff"
+  ],
+  "linkColor": "default",
+  "skipBlockDialog": true,
+  "subscriptions": [
+    {
+      "name": "ncaq/uBlacklistRule",
+      "url": "https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "HerXayah / ublacklist-ai",
+      "url": "https://raw.githubusercontent.com/HerXayah/ublacklist-ai/refs/heads/main/ublacklist-ai.txt",
+      "enabled": true
+    },
+    {
+      "name": "ranmaru22 / ublacklist-anti-ai-art-subscription",
+      "url": "https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription/raw/branch/main/list.txt",
+      "enabled": true
+    },
+    {
+      "name": "NotaInutilis/Super-SEO-Spam-Suppressor",
+      "url": "https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "Github复制网站 arosh / ublacklist-github-translation",
+      "url": "https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "stackoverflow复制网站 arosh / ublacklist-stackoverflow-translation",
+      "url": "https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "搜索引擎复制站  quenhus / uBlock-Origin-dev-filter",
+      "url": "https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt",
+      "enabled": true
+    },
+    {
+      "name": "组织广告和跟踪 PeterLowe/pgl.yoyo.org",
+      "url": "https://pgl.yoyo.org/as/serverlist.php?hostformat=plain&mimetype=plaintext&prepend=*://*.&append=/*&showintro=0",
+      "enabled": true
+    },
+    {
+      "name": "赌博站点 legendary_creeper / safebrowsing-for-minecrafters",
+      "url": "https://codeberg.org/legendary_creeper/safebrowsing-for-minecrafters/raw/branch/main/safebrowsing-for-minecrafters.txt",
+      "enabled": true
+    },
+    {
+      "name": "内容农场 wdmpa / content-farm-list",
+      "url": "https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "垃圾爬虫站点 MisakaMikoto-35c5 / ublacklist-rules",
+      "url": "https://raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/content-farm.txt",
+      "enabled": true
+    },
+    {
+      "name": "垃圾中文教程 scyrte / uBlacklist-Subscription",
+      "url": "https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/blacklist.txt",
+      "enabled": true
+    }
+  ],
+  "syncAppearance": true,
+  "syncBlocklist": true,
+  "syncGeneral": true,
+  "syncInterval": 120,
+  "syncSubscriptions": true,
+  "updateInterval": 120,
+  "version": "8.9.2"
+}
