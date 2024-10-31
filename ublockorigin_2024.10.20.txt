@@ -1412,3 +1412,22 @@ zhuanlan.zhihu.com##.css-nk32ej
 zhuanlan.zhihu.com##.css-89d6kn.Button--plain.CornerButton.Button
 cloud.digitalocean.com##.iAzGOq.sc-ijJwAX
 v.ps##.footer.section
+
+! 2024年10月31日 https://m.qidian.com
+m.qidian.com###teleported
+m.qidian.com##footer
+m.qidian.com##._homeDownload_v4mbu_774._module_v4mbu_377.auto-tr
+m.qidian.com##._adSwipe_v4mbu_304.y-swipe
+m.qidian.com##._bdCenterOperateCon_oy3po_726.auto-tr
+m.qidian.com##._bdReadApp_12krw_568.auto-tr
+m.qidian.com##._productTxt_12krw_471
+m.qidian.com##._copyTxt_12krw_516
+m.qidian.com##.justify-center.items-center.flex.z-5.inset-0.fixed
+m.qidian.com##.bg-on-image-white-70.z-4.inset-0.fixed
+m.qidian.com##.\<sm\:px-12px.\<sm\:mb-48px.\<sm\:mx-20px.mb-64px.mx-64px.py-24px.px-32px.py-12px.rounded-8px.bg-on-image-s-black-4
+m.qidian.com##._chapterEndCon_19bvf_193
+m.qidian.com##.flex-col.flex.h-full.pb-1px.first-of-type\:border-none.border-t.border-outline-black-8.relative.chapter-wrapper > .auto-tr
+m.qidian.com##._navApp_7rq8x_616.auto-tr
+m.qidian.com##._moreComment_18wdk_193
+m.qidian.com##.review
+m.qidian.com##.review-content
