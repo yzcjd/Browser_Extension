@@ -183,14 +183,7 @@ www.olevod.com##.hidden_xs.head_hot_search
 www.555fl6.com##.footer-content
 5moov.vip##.links > small
 5moov.vip##.icon-arrow-go
-www.555fl6.com##.player-heading.module-heading > .module-title
-www.555fl6.com##.module-player-handle-items
-www.555fl6.com##a.fixedGroup-item
-www.555fl6.com##div.fixedGroup-item:nth-of-type(1)
-www.555fl6.com##.layui-btn-sm.layui-btn
-www.555fl6.com###rss-plus-iframe
 5moov.vip##.h5player-popup-content
-www.555fl6.com##.h5player-popup-content
 lol.ps##.desktop\:max-w-full.desktop\:min-w-\[1280px\].dark\:text-dark-psbk-sub.dark\:bg-psgr-dark.text-psbk-sub.bg-psgr-light.w-full
 lol.ps##.ad-pc1
 lol.ps##.desktop\:block.mx-auto.ad-pc2
@@ -223,9 +216,6 @@ twitter.com##.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1dye5f7.r-64el8z.r-19yznuf
 gemini.google.com##.ng-star-inserted.ng-trigger-capabilitiesDisclaimerRevelAnimation.ng-trigger.ng-tns-c2208823281-1.capabilities-disclaimer
 gemini.google.com##.ng-star-inserted.ng-trigger-capabilitiesDisclaimerRevelAnimation.ng-trigger.ng-tns-c2208823281-109.capabilities-disclaimer
 gemini.google.com##.ng-tns-c2581662400-1.share-viewer_footer_disclaimer
-www.google.com##.uzjuFc
-www.google.com##.fSp71d
-www.google.com##.iRPzcb
 imzm.im##.widget-area.sidebar
 imzm.im##.site-footer
 imzm.im##.post-navigation.navigation
@@ -406,15 +396,7 @@ www.ifanr.com##.o-single-aside__body
 www.landiannews.com##.sidebar
 www.threads.net##.xh8yej3.x2b8uid.x10l6tqk.x1pi30zi.x1swvt13.xnxb3zj.x78zum5.x9f619.x1ey2m1c.xamitd3.x6s0dn4
 chatgpt.com##.z-20.right-0.left-0.bottom-full.absolute
-www.google.com###botstuff > div > div
-www.google.com###fbarcnt
-www.google.com##.Q3DXx.NDnoQ
-www.google.com##.dodTBe
 www.nivod.cc##.ph-skin-wrap > .footer
-www.google.com##.sfbg
-www.google.com##.qogDvd
-www.google.com##.J1AhHd.PHj8of
-www.google.com##.KLEmSd.qS9jbf.ym1pid
 www.ifanr.com##div.o-single-content__body__content
 www.ifanr.com##.footer-content.u-clearfix
 www.google.com###pagetual_pageBar2
@@ -422,7 +404,6 @@ www.uuzw.cc##a.btn-addbs
 www.uuzw.cc##div.section-opt
 www.uuzw.cc##h1.title
 www.uuzw.cc##.hotcmd-wp
-! bd-sports.com"]
 xchina.co##[href="https://bd-sports.com"]
 xchina.co##.aside
 xchina.co##div.banner_ad.article:nth-of-type(5)
@@ -852,13 +833,9 @@ www.igfw.net###footer > .inner
 blog.topstalk.com##.mdx-footer-morden.mdui-text-center.foot
 javdb.com##.app-desktop-banner
 upsangel.com###comments
-qqdk2019.net##.footer-bottom.bg-dark-gray.container-fluid
-qqdk2019.net##.no-margin-top.padding-four.margin-ten.border-bottom.text-center
-qqdk2019.net##.bg-gray.text-left.about-author.no-margin-bottom.margin-eight.text-center
 aleikeji.lanzoub.com##.n_bot
 aleikeji.lanzoub.com##.n_foot
 aleikeji.com##.text-xs.footer-type-1.main-footer
-www.google.com##.nD2EKb
 www.userscript.zone##.footer.row
 www.lcayun.com##body > .footer
 sub.v1.mk##.el-message--success.el-message
@@ -871,7 +848,6 @@ disqus.com##.text-light.text-center.login-overlay__content
 www.nivod4.tv##.cover.ad-screen__cd
 www.nivod4.tv##.ph-skin-wrap > .footer
 www.nivod4.tv##.m-sideBar > div
-www.google.com##.RLQCVb
 91ai.net###fastpostform > table > tbody > tr > .plc
 91ai.net###ft
 91ai.net###toptb
@@ -879,10 +855,6 @@ darkreader.org##.c-h
 darkreader.org##.ios__show-up
 darkreader.org##.page-grid-footer
 www.modernwiki.app##.wrap-inner > .footer
-wk.ssplane.org##.ant-layout-footer > .ant-row-flex
-wk.ssplane.org##.footer-box
-wk.ssplane.org###tidio-chat-iframe
-wk.ssplane.org##.ant-back-top-content
 www.google.com##.rcVM6e > svg
 wk.ssplane.org##.peekaboo.globeContainer > canvas
 www.google.com##.card-section
@@ -983,9 +955,6 @@ www.tjsky.net##.comment-respond
 www.tjsky.net###footer
 hugo.jiahongw.com##.wrapper > .footer
 hugo.jiahongw.com##.utterances__message
-www.niuqi360.com##.cky-consent-bar
-www.niuqi360.com##body > .footer
-www.niuqi360.com##.entry-comments
 south-plus.org###footer > .footer
 www.tjsky.net##.akismet_comment_form_privacy_notice
 wiki.metacubex.one##.md-typeset.md-footer-meta
@@ -1125,22 +1094,10 @@ developers.google.com##.devsite-sidebar
 developers.google.com##.devsite-article > devsite-thumb-rating > .devsite-thumb-rating > .devsite-thumb-label
 developers.google.com##.devsite-article > devsite-thumb-rating > .devsite-thumb-rating > .devsite-thumbs
 developers.google.com##devsite-feedback.nocontent:nth-of-type(2)
-wxf2088.xyz##.site-footer
-wxf2088.xyz##.rollbar
-wxf2088.xyz##.comment-respond
-wxf2088.xyz##.sd-sharing.sd-social-icon.sd-social.sd-block.robots-nocontent
-wxf2088.xyz##div.wpulike-default.wpulike:nth-of-type(4)
-wxf2088.xyz##.article-footer
-wxf2088.xyz##.theiaStickySidebar > .widget-area
 www.xn--9kq078crf7a.com##small
 cloud.digitalocean.com##.epcjMo.sc-gTuxHw
 cloud.digitalocean.com##.ember-view.Footer
 telegra.ph##.tl_footer_button
-support.discord.com##.section
-support.discord.com##.article-relatives
-support.discord.com##.article-votes
-support.discord.com##.article-more-questions
-support.discord.com##.article-footer
 www.listennotes.com##.pb-20.bg-black
 www.twitch.tv##.ceAbGI.Layout-sc-1xcs6mc-0
 www.dailymotion.com##.Footer__footer___2nCUd
@@ -1154,11 +1111,6 @@ stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-225.bt.
 bitly.com##.entry-content > .dark-row.text-content.full-width-content
 bitly.com##.off-canvas-content > .footer
 dash.cloudflare.com##.c_el.c_fs.c_fr.c_fa.c_bm.c_bq.c_fq.c_fp.c_c
-hkaa0.top##body > .footer
-hkaa0.top##.dshare-container.dshare
-hkaa0.top##.copyright
-hkaa0.top##.admire-content
-hkaa0.top##.admire
 tgstat.com##.shadow.position-relative.footer
 tgstat.com##.draggable.slick-list
 www.v2ray-agent.com###footer
@@ -1177,19 +1129,7 @@ www.pengqi.club##body > .footer
 www.pengqi.club##.radius8.box-body.text-center.comment-signarea
 blog.yoitsu.moe##.footer-copyright
 user.ipip.net##.ftMain.outer
-www.luofan.net##div.com_info > ul
-www.luofan.net###txaArticle
-www.luofan.net###frmSumbit
-www.luofan.net###footer > .footer
-www.luofan.net##.card.br.widget_google.widget
-www.luofan.net##.theiaStickySidebar
-www.ruiwuer.com##body > .footer
-www.ruiwuer.com##.sidebar
-www.ruiwuer.com##.topbar
 www.cijiyun.com##.sectionpc.footerer
-www.laoliuceping.com##body > .footer
-www.laoliuceping.com##.rollbar-rb.rollbar
-www.laoliuceping.com##.sidebar
 status.coalcloud.net##.is-desktop.vab-footer
 xiaoyi.vc###footer
 zhichao.org##.VPFooter
@@ -1257,7 +1197,6 @@ hayami.typlog.io##.typlog-foot > div
 hayami.typlog.io##.sponsorship.entry-section > .inner
 hayami.typlog.io##.entry-block
 www.reddit.com##.text-tone-1.bg-\[color\:var\(--shreddit-content-background\)\].xs\:px-0.px-md.block
-农夫山泉.lol##.px-4.footer
 missav.com##body > div > .px-4.mx-auto.sm\:container
 crastar.io##.dark\:text-gray-400.dark\:bg-gray-990.bg-white.text-gray-600
 bigchick.xyz###footer
@@ -1393,10 +1332,53 @@ zhuanlan.zhihu.com##.css-nk32ej
 zhuanlan.zhihu.com##.css-89d6kn.Button--plain.CornerButton.Button
 cloud.digitalocean.com##.iAzGOq.sc-ijJwAX
 v.ps##.footer.section
+clients.natvps.net##.footer-content
 
 
 ! 暂时手动添加
-! 2024年10月31日 https://m.qidian.com
+! https://www.google.com
+www.google.com##.chr-footer-social
+www.google.com##.chr-cookie-banner__inner
+www.google.com##.chr-footer-links
+www.google.com##.chr-footer__bottom
+www.google.com##.nD2EKb
+www.google.com##.RLQCVb
+www.google.com##.rcVM6e > svg
+www.google.com##.card-section
+www.google.com##.SSwjIe.KxwPGc
+www.google.com##.h5player-popup-content
+www.google.com##.uzjuFc
+www.google.com##.fSp71d
+www.google.com##.iRPzcb
+||ogs.google.com/u/0/widget/callout/$subdocument
+www.google.com###bres
+www.google.com###fbarcnt
+www.google.com##.Q3DXx.NDnoQ
+www.google.com##.dodTBe
+www.google.com##.sfbg
+www.google.com##.qogDvd
+www.google.com##.J1AhHd.PHj8of
+www.google.com##.KLEmSd.qS9jbf.ym1pid
+www.google.com###rso > div.MjjYud > .cUnQKe
+www.google.com##.CbazZd
+www.google.com###slim_appbar
+www.google.com##.PHj8of
+! 东方永夜机脚本前十页
+www.google.com###pagetual_pageBar1
+www.google.com###pagetual_pageBar2
+www.google.com###pagetual_pageBar3
+www.google.com###pagetual_pageBar4
+www.google.com###pagetual_pageBar5
+www.google.com###pagetual_pageBar6
+www.google.com###pagetual_pageBar7
+www.google.com###pagetual_pageBar8
+www.google.com###pagetual_pageBar9
+
+!  https://book.qidian.com
+book.qidian.com##.center990.crumbs-nav
+book.qidian.com##.trigger-download.red-btn
+
+! 手机起点 https://m.qidian.com
 m.qidian.com###teleported
 m.qidian.com##footer
 m.qidian.com##._homeDownload_v4mbu_774._module_v4mbu_377.auto-tr
