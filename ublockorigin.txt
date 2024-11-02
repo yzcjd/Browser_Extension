@@ -1396,3 +1396,8 @@ m.qidian.com##._navApp_7rq8x_616.auto-tr
 m.qidian.com##._moreComment_18wdk_193
 m.qidian.com##.review
 m.qidian.com##.review-content
+m.qidian.com##.prevent-shield.bd-center-operate-con
+m.qidian.com##.read-comment-total
+m.qidian.com##.bubble-animation.review-count
+m.qidian.com##.read-content .review-count > .YUEWENFONT.paragraphId-num
+||imgservices-1252317822.image.myqcloud.com/image/030420220133624/e7e52142.svg$image
