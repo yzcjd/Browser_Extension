@@ -1374,6 +1374,14 @@ www.google.com###pagetual_pageBar7
 www.google.com###pagetual_pageBar8
 www.google.com###pagetual_pageBar9
 
+! https://t.bilibili.com
+t.bilibili.com##.bili-dyn-publishing
+t.bilibili.com##.right
+
+! 2024年11月2日 https://www.bilibili.com
+www.bilibili.com##.popular-tips
+www.bilibili.com##.international-footer
+
 !  https://book.qidian.com
 book.qidian.com##.center990.crumbs-nav
 book.qidian.com##.trigger-download.red-btn
