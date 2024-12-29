@@ -2,6 +2,9 @@
 #### 删除了没有用的东西，像是 Google 搜索框和部分页面的 “下一页” 按钮（使用东方永夜机脚本自动翻页）。
 #### 如果你发出疑问：“我评论按钮呢？”，说明这个规则不适合你。
 
+##### DJ NOScript
+##### https://microsoftedge.microsoft.com/addons/detail/dj-noscript/lfmbeaoepgbkblgfpnamfehdkjnahljg
+
 ```
 https://raw.githubusercontent.com/yzcjd/Browser_Extension/1/ublockorigin.txt
 ```
